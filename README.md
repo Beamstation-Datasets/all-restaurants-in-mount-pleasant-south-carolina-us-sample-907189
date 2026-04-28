@@ -9,9 +9,9 @@
 | Dataset ID | `907189` |
 | Location | Mount Pleasant |
 | Category | Restaurants |
-| Full dataset size | 71 records |
-| Free sample size | 7 records (9.86%) |
-| Last export | 2026-04-21T14:08:21.006063+00:00 |
+| Full dataset size | 72 records |
+| Free sample size | 7 records (9.72%) |
+| Last export | 2026-04-28T15:07:53.001865+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mount-pleasant-south-carolina-us-sample-907189/releases/download/sample-latest/beamstation_907189_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
