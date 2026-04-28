@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Complete dataset of all active restaurant listings in Mount Pleasant, South Carolina. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Mount Pleasant, South Carolina, US",
-  "export_job_id": "ccbd64a5-c9e7-48c4-a34e-9145739e74a7",
+  "export_job_id": "b8f0ffc6-ecc8-4ca6-a9b0-c3f5913989e1",
   "github_org": "Beamstation-Datasets",
   "id_short": 907189,
   "location_name": "Mount Pleasant",
   "location_type": "city",
   "repo_name": "all-restaurants-in-mount-pleasant-south-carolina-us-sample-907189",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/907189/beamstation_907189_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 9.72,
   "sample_records": 7,
-  "sample_sha256": "a72a4c723cb486920833c09e0dc6e615e31afd63e1fd1fbf8f8bbe6110a792a5",
-  "sample_size_bytes": 38605,
-  "total_records": 71,
-  "updated_at": "2026-04-21T14:08:21.006063+00:00"
+  "sample_sha256": "713081a58533d08904109c02c64df50f23940d50c15a97c0a438995a63185d06",
+  "sample_size_bytes": 42077,
+  "total_records": 72,
+  "updated_at": "2026-04-28T15:07:53.001865+00:00"
 }
