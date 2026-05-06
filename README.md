@@ -1,6 +1,6 @@
 # All Restaurants in Mount Pleasant, South Carolina, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `907189` |
 | Location | Mount Pleasant |
 | Category | Restaurants |
-| Full dataset size | 72 records |
-| Free sample size | 7 records (9.72%) |
-| Last export | 2026-04-28T15:07:53.001865+00:00 |
+| Full dataset size | 84 records |
+| Free sample size | 8 records (9.52%) |
+| Last export | 2026-05-06T07:58:56.288209+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-mount-pleasant-south-carolina-us-sample-907189/releases/download/sample-latest/beamstation_907189_restaurants-us-sc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
