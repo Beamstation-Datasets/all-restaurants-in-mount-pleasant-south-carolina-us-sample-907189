@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b8f0ffc6-ecc8-4ca6-a9b0-c3f5913989e1",
+  "export_job_id": "ff1ed27b-97a9-4d56-b1d1-40e6b68295a2",
   "id_short": 907189,
-  "published_at": "2026-04-28T19:59:28Z",
+  "published_at": "2026-05-06T19:21:20Z",
   "repo_name": "all-restaurants-in-mount-pleasant-south-carolina-us-sample-907189",
   "sample_asset_name": "beamstation_907189_restaurants-us-sc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/907189/beamstation_907189_restaurants-us-sc_SAMPLE_DIST.csv",
-  "sample_records": 7,
-  "sample_sha256": "713081a58533d08904109c02c64df50f23940d50c15a97c0a438995a63185d06",
-  "sample_size_bytes": 42077,
-  "total_records": 72
+  "sample_records": 8,
+  "sample_sha256": "dc75d83330b3561135b5e7fab753f286ae6ebb85ceb6411b83f523b4b4f6f605",
+  "sample_size_bytes": 42213,
+  "total_records": 84
 }
